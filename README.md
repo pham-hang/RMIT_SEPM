@@ -17,10 +17,8 @@ After download the code form GitHub, do as follow:
 3. Run: **npm start** for viewing.
 4. Remember to run backend and frontend separately.
 
-### DEPLOYMENT
+### DEMO
 
-For the management site, please visit: https://manage-easyprice.herokuapp.com/
-
-For the main website, please visit: https://easy-price.herokuapp.com/ 
+For detail, please watch this video for demostration: https://youtu.be/9dYv11Cwbr4
 
 
