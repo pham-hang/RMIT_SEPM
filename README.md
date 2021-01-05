@@ -1,4 +1,4 @@
-# SEPM Project Group 3
+# Price Comparition Project 
 
 ### FRONT-END
 1. run: **npm install**
